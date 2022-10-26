@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ks-code-challenge-react/static/css/main.7cd8ae48.css",
+    "main.js": "/ks-code-challenge-react/static/js/main.515cdce3.js",
+    "index.html": "/ks-code-challenge-react/index.html",
+    "main.7cd8ae48.css.map": "/ks-code-challenge-react/static/css/main.7cd8ae48.css.map",
+    "main.515cdce3.js.map": "/ks-code-challenge-react/static/js/main.515cdce3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cd8ae48.css",
+    "static/js/main.515cdce3.js"
+  ]
+}
